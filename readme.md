@@ -1,4 +1,8 @@
-🚀 Spacefarm-AI 🌱 About the Service Spacefarm-AI는 도시 공유 텃밭 플랫폼 'Spacefarm'의 인공지능 기반 작물 관리 및 추천, 병해진단 챗봇입니다. 사용자가 텃밭을 가꾸는 과정에서 겪는 어려움을 해결하고, 농업에 대한 지식이 부족한 초보자도 성공적으로 작물을 재배할 수 있도록 돕습니다.
+🚀 Spacefarm-AI
+
+🌱 About the Service 
+
+Spacefarm-AI는 도시 공유 텃밭 플랫폼 'Spacefarm'의 인공지능 기반 작물 관리 및 추천, 병해진단 챗봇입니다. 사용자가 텃밭을 가꾸는 과정에서 겪는 어려움을 해결하고, 농업에 대한 지식이 부족한 초보자도 성공적으로 작물을 재배할 수 있도록 돕습니다.
 
 ✨ Key AI Features 
 
